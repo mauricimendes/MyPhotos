@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { View, Text, StyleSheet, TouchableOpacity, TextInput, Alert, AsyncStorage } from 'react-native'
 import { MaterialIcons } from '@expo/vector-icons'
 import { useNavigation } from '@react-navigation/native'
-import api from '../../serveces/api'
+import api from '../../services/api'
 
 const Login = () => {
     const navigation = useNavigation()

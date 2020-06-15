@@ -15,7 +15,7 @@ import {
 } from 'react-native'
 import { useNavigation, useRoute } from '@react-navigation/native'
 import { AppLoading } from 'expo'
-import api from '../../serveces/api'
+import api from '../../services/api'
 import * as MailComposer from 'expo-mail-composer'
 import { LinearGradient } from 'expo-linear-gradient'
 import { MaterialIcons, Entypo, SimpleLineIcons, AntDesign } from '@expo/vector-icons'

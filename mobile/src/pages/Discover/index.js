@@ -14,7 +14,7 @@ import {
 } from 'react-native'
 import { useNavigation } from '@react-navigation/native'
 import { AppLoading } from 'expo'
-import api from '../../serveces/api'
+import api from '../../services/api'
 import { LinearGradient } from 'expo-linear-gradient'
 import { MaterialIcons, Entypo, SimpleLineIcons, AntDesign } from '@expo/vector-icons'
 import * as ImagePicker from 'expo-image-picker'

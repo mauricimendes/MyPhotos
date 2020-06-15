@@ -4,7 +4,7 @@ import { MaterialIcons } from '@expo/vector-icons'
 import { useNavigation, useRoute } from '@react-navigation/native'
 import * as ImagePicker from 'expo-image-picker'
 import { LinearGradient } from 'expo-linear-gradient'
-import api from '../../serveces/api'
+import api from '../../services/api'
 
 const Register = () => {
     const navigation = useNavigation()
