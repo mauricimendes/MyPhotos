@@ -1,0 +1,5 @@
+node_modules
+uploads/*
+!uploads/.gitkeep
+uploads_photo/*
+!uploads_photo/.gitkeep
