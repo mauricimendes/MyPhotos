@@ -1,5 +1,7 @@
 # MyPhotos
 
+LINK do vídeo: https://www.linkedin.com/posts/activity-6678309041170599936-KqBT?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 # Backend
 
 **Necessário ter o knex instalado de forma global na sua máquina**
